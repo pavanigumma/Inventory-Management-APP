@@ -4,7 +4,7 @@
 * **INTERN ID:** CITS9022
 * **FULL NAME:** GUMMA PAVANI
 * **DOMAIN:**  Software Development
-* **PROJECT NAME:** JOB BOARD PLATFORM UI
+* **PROJECT NAME:** Inventory Management System
 * **DURATION:** 12 Weeks
 
 ## PROJECT OVERVIEW
